@@ -10,4 +10,7 @@
 
 链接：[你为什么从阿里巴巴集团离职？](https://www.zhihu.com/question/22032540/answer/1851214303)
 
+### 3. 一个很好的编程知识网站，30secondsofcode
 
+链接：[30 sechonds of code](https://www.30secondsofcode.org/git/p/1)
+[github page](https://github.com/30-seconds/30-seconds-of-python)
