@@ -99,7 +99,7 @@
 
 [Mao Lei's blog](https://leimao.github.io/blog/PyTorch-Distributed-Training/)
 
-[知乎用户日知的日志](https://zhuanlan.zhihu.com/p/98535650)
+[知乎用户日知的日志](https://zhuanlan.zhihu.com/p/98535650)  [日知的github](https://github.com/tczhangzhi/pytorch-distributed/blob/master/apex_distributed.py)
 
 [知乎会飞的咸鱼](https://zhuanlan.zhihu.com/p/76638962)
 
