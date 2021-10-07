@@ -88,3 +88,20 @@
 
 
 ----
+
+6. 关于Pytorch里面如何写DDP代码和AMP代码
+
+[yangkky/distributed_tutorial.git](https://github.com/yangkky/distributed_tutorial/blob/master/ddp_tutorial.md)
+
+[xiezheng-cs/PyTorch_DDP.git](https://github.com/xiezheng-cs/PyTorch_DDP/blob/main/distributed.py)
+
+[yangkky's blog](https://yangkky.github.io/2019/07/08/distributed-pytorch-tutorial.html)
+
+[Mao Lei's blog](https://leimao.github.io/blog/PyTorch-Distributed-Training/)
+
+[知乎用户日知的日志](https://zhuanlan.zhihu.com/p/98535650)
+
+[知乎会飞的咸鱼](https://zhuanlan.zhihu.com/p/76638962)
+
+----
+
