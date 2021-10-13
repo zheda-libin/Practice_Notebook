@@ -111,3 +111,8 @@
 [python正则表达式精讲--分组](https://zhuanlan.zhihu.com/p/375659011)
 
 
+8. 关于OPENCV的两个宝藏网址。
+
+https://github.com/tczhangzhi/face-recognition
+
+https://vovkos.github.io/doxyrest-showcase/opencv/sphinx_rtd_theme/group_core_c.html#doxid-d2-df8-group-core-c
