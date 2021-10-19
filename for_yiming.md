@@ -24,6 +24,8 @@ tensorflow的API太底层，死掉；keras又封装的太死，死掉。实践�
 - 了解dtype，了解device
 - gather和scatter的用法
 - einsum
+- one-hot有几种写法？
+- cross entropy有几种写法，各应该注意点啥？
 - 各种shape的变换，transpose，scatter，view和reshape的区别，stride是什么，什么时候需要加permute？包括我前两天写的[知乎博客](https://zhuanlan.zhihu.com/p/417304042)。
 - dataloader的基本原理，collate_fn, sampler, batch_sampler, distributedsampler等等。
 - Module里面的modules，还有children的区别
